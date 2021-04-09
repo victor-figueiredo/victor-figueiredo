@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h2> Victor Figueiredo :man_technologist:</h2> 
-<img href="mailto:vcfooficial@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+<a href="mailto:vcfooficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
