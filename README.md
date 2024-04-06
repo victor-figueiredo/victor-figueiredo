@@ -1,5 +1,5 @@
 <h2>:man_technologist: I'm Victor Figueiredo</h2> 
-<h3>Developer Frontend</h3>
+<h3>Fullstack Developer</h3>
 <h3>Working on <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> & <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></h3>
 <h3>Experience with HTML5, CSS, JavaScript, Angular, Reactjs, Nextjs, and tools like ContextAPI, Redux Toolkit, Typescript, WebSockets, MaterialUI, SaaS, ChakraUI, SEO Optimization, Live Twilio. My current backend knowledge includes NodeJS, ExpressJS, PHP, Laravel MySQL , MongoDB.</h3>
 <h3>I have experience in the market and I'm looking for new and good challenges.</h3>
