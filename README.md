@@ -5,15 +5,4 @@
 <br>
 My current backend knowledge includes NodeJS, ExpressJS, PHP, Laravel, MySQL, MongoDB.</h3>
 <!-- <h3>I have experience in the market and I'm looking for new and good challenges.</h3> -->
-<h3>
-  How to reach me: 
-</h3>
-<a target="_blank" href="https://www.linkedin.com/in/vcfo">
-  <img title="Visite meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a target="_blank" href="https://www.victorfigueiredo.vercel.app">
-  <img title="Confira meu portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-</a>
-<a target="_blank" href="mailto:victorfigueiredodev@gmail.com">
-  <img title="Me envie um e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<h3>How to reach me: </h3><a target="_blank" href="https://www.linkedin.com/in/vcfo"><img title="Visite meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a target="_blank" href="https://www.victorfigueiredo.vercel.app"><img title="Confira meu portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><a target="_blank" href="mailto:victorfigueiredodev@gmail.com"><img title="Me envie um e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
