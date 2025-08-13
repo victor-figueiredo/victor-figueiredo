@@ -1,14 +1,14 @@
 <h2>I'm Victor Figueiredo</h2> 
 <h3>Fullstack Developer</h3>
-<p>I have 3 years of professional experience, with greater knowledge of Front-end, I have developed several projects together with multidisciplinary teams for large companies.
+<p>I have 4 years of professional experience as a Full-stack Developer, having delivered multiple projects for large companies in collaboration with multidisciplinary teams.
 <br />
-My core Fullstack skills cover:
+My main Full-stack skills include:
 <br />
-- Front-end: HTML, CSS, JavaScript, TypeScript, ReactJs, NextJs, Angular, React Native, PHP, Laravel, Blade, among others.
+- Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Redux, Angular, React Native, PHP, Laravel, Blade, among others.
 <br />
 - Back-end: NodeJS, ExpressJS, NestJs, Redis, Prisma, Sequelize, PHP, Laravel, Eloquent, MySQL, MongoDB, PostgreSQL, among others.
 <br />
-DevOps tools: GitHub, GitLab, Docker, Monday, Trello, Jira, among others.</p>
+Tools & Platforms: Git, GitHub, GitLab, Azure Devops, Kubernetes, APM, Grafana, Docker, Monday, Trello, Jira, among others.</p>
 <h3>Some technologies</h3>
 <p align="left">
   <!-- html -->
